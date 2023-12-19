@@ -1,0 +1,25 @@
+.Description h1 {
+    line-height: 3rem;
+    font-size: 3rem;
+}
+
+.Description p {
+    font-size: 0.7rem;
+}
+
+.Description button {
+    margin-right: 1rem;
+    padding: 4px 16px;
+}
+
+#shop {
+    border: none;
+    background-color: red;
+    color: white;
+}
+
+#category {
+    background-color: white;
+    color: grey;
+    border: 1px solid black;
+}
